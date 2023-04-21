@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "npx live-server public/",
-    "clean": "rimraf public/data/*",
+    "clean": "npx rimraf public/data/*",
     "grab-episodes": "dotenv -- cross-var curl -L -s -o public/data/episodes.json 'https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet,contentDetails&maxResults=52&playlistId=PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT&key=%API_KEY%'",
     "build": "npm run clean && npm run grab-episodes"
   },
