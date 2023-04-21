@@ -1,0 +1,19 @@
+{
+  "name": "ngobrolin-web-vanilla",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx live-server",
+    "clean": "rimraf data/*",
+    "grab-episodes": "dotenv -- cross-var curl -L -s -o data/episodes.json 'https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet,contentDetails&maxResults=25&playlistId=PL61BnDAdAssNkCgPzEEUXRKLh0ltHteCG&key=%API_KEY%'"
+  },
+  "keywords": [],
+  "author": "Riza Fahmi <rizafahmi@gmail.com> (https://rizafahmi.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "cross-var": "1.1.0",
+    "dotenv-cli": "7.2.1",
+    "rimraf": "5.0.0"
+  }
+}
