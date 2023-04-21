@@ -5,13 +5,43 @@
   <title>Ngobrolin WEB</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="css/bare.min.css" rel="stylesheet">
   <link href="css/style.css" rel="stylesheet">
 </head>
 
 <body>
-  <h1>Ngobrolin WEB</h1>
-  <small>Ngobrol ngalor-ngidul membahas berbagai hal tentang teknologi web.</small>
+  <nav><!-- use fx attribute for fixed positioning -->
+    <label>
+      <input type="checkbox">
+      <header>
+        <a href="/">Ngobrolin WEB</a>
+      </header>
 
+      <ul>
+        <li><a href="https://bit.ly/ngobrolinweb" target="_blank">💌 Kirim pertanyaan</a></li>
+        <li><a href="https://www.youtube.com/playlist?list=PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT">🎥 Kanal YouTube</a>
+        </li>
+      </ul>
+    </label>
+  </nav>
+
+  <section>
+    <h2>Daftar Episode</h2>
+
+    <grid id="episodes">
+    </grid>
+  </section>
+
+  <template id="episode">
+    <div col="1/3">
+      <a target="_blank">
+        <img class="thumbnail" alt="episode thumbnail" />
+        <h3 class="title"></h3>
+      </a>
+    </div>
+
+  </template>
 </body>
+<script src="app.js" type="module"></script>
 
 </html>

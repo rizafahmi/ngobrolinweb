@@ -1,0 +1,1489 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "QDEByCB5TSdfXxpE9XeN4rXRi3s",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LjcCa8A1LZH2ZF-TRYat2E47MtY",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2023-01-17T22:24:06Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin Cookies - Ngobrolin WEB ep17",
+        "description": "Yuk mari kita diskusi dan ngobrol ngalor-ngidul tentang dunia web. Agar tetap up-to-date dengan teknologi web terkini.\r\n\r\nTopik, tautan dan pertanyaan menarik bisa dilayangkan ke https://bit.ly/ngobrolinweb",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KPZ-BgtX1kk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KPZ-BgtX1kk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KPZ-BgtX1kk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KPZ-BgtX1kk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KPZ-BgtX1kk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KPZ-BgtX1kk"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "KPZ-BgtX1kk",
+        "videoPublishedAt": "2023-01-18T02:21:44Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "C1-27LSACXTQjKMQIUYUjsoTRPI",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2023-01-04T03:47:20Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin 2023 - Ngobrolin WEB ep15",
+        "description": "Yuk mari kita diskusi dan ngobrol ngalor-ngidul tentang dunia web. Agar tetap up-to-date dengan teknologi web terkini.\n\n* Gelombang baru frontend framework: qwik.builder.io, astro.build, enhance.dev dkk\n* Berbagai runtime baru sebagai alternatif node: deno.land, bun.sh\n* Rust sebagai bahasa untuk membangun tools JavaScript\n    * Rome\n    * Deno\n    * Turbopack\n    * Wasm: Web framework dengan Rust dan Wasm: Leptos (https://github.com/gbj/leptos)\n\n* Bun pakai Ziglang\n\n* Semantic SEO, Content recommendation dengan Machine Learning(GPT 3++)\n* Core Web Vitals - Performance & Content still dominate\n* Mobile viewport dengan fold screen size\n\n* Kembalinya penggunaan standar-standar web(-ecosystem): RSS, ActivityPub. Akan berpengaruh pada ekosistem online publishing secara umum?\n    * https://activitypub.rocks/ \n    * https://bringback.blog/ \n* https://rss.com/blog/how-do-rss-feeds-work/ \n* Vivaldi, Mozilla* membuat “instance” (server) Mastodon yang menggunakan ActivityPub:\n\n\n\nTopik, tautan dan pertanyaan menarik bisa dilayangkan ke https://bit.ly/ngobrolinweb",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dwy3ydXygaY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dwy3ydXygaY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dwy3ydXygaY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Dwy3ydXygaY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Dwy3ydXygaY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Dwy3ydXygaY"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "Dwy3ydXygaY",
+        "videoPublishedAt": "2023-01-04T02:25:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NsPN5Hlc-mLsZa3HFg-XFdGIjhY",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2022-12-22T00:43:46Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin Browser - Ngobrolin WEB ep14",
+        "description": "Kisah seru 'perang' browser!\n\n-----------------------------------------------------------------------------------\nBergabung menjadi anggota elit di kanal ini:\nhttps://www.youtube.com/channel/UCHhAlFGFCGgIusQkQIqJLYw/join\n\nDonasi dapat meningkatkan kualitas kanal ini:\n💰 https://karyakarsa.com/rizafahmi/tip\n💸 https://saweria.co/rizafahmi\n\n-----------------------------------------------------------------------------------\n\nButuh merchandise untuk kenangan:\n👕 https://www.ciptaloka.com/+rizafahmi/\n\n-----------------------------------------------------------------------------------\n\nNikmati juga karya saya lainnya:\n🗒️ https://rizafahmi.com/\n🗯️ https://diskusi.tech/rizafahmi\n🕸️ https://buildwithangga.com/kelas/sveltejs-front-end-javascript-development-web-donasi-online\n▶️ https://buildwithangga.com/kelas/struktur-data-javascript-improve-website-e-commerce\n✅ https://buildwithangga.com/kelas/mastering-react-js-progressive-web-apps-e-commerce",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O2c3Q2QTZI4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O2c3Q2QTZI4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O2c3Q2QTZI4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O2c3Q2QTZI4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O2c3Q2QTZI4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "O2c3Q2QTZI4"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "O2c3Q2QTZI4",
+        "videoPublishedAt": "2022-12-27T13:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "amOfM032eHudE3LZkgk4W01mxyk",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2022-12-14T22:19:29Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Nobrolin Image - Ngobrolin WEB ep13",
+        "description": "Yuk mari kita diskusi dan ngobrol ngalor-ngidul tentang dunia web. Agar tetap up-to-date dengan teknologi web terkini.\n\nTopik, tautan dan pertanyaan menarik bisa dilayangkan ke https://bit.ly/ngobrolinweb\n\n\n-----------------------------------------------------------------------------------\nBergabung menjadi anggota elit di kanal ini:\nhttps://www.youtube.com/channel/UCHhAlFGFCGgIusQkQIqJLYw/join\n\nDonasi dapat meningkatkan kualitas kanal ini:\n💰 https://karyakarsa.com/rizafahmi/tip\n💸 https://saweria.co/rizafahmi\n\n-----------------------------------------------------------------------------------\n\nButuh merchandise untuk kenangan:\n👕 https://www.ciptaloka.com/+rizafahmi/\n\n-----------------------------------------------------------------------------------\n\nNikmati juga karya saya lainnya:\n🗒️ https://rizafahmi.com/\n🗯️ https://diskusi.tech/rizafahmi\n🕸️ https://buildwithangga.com/kelas/sveltejs-front-end-javascript-development-web-donasi-online\n▶️ https://buildwithangga.com/kelas/struktur-data-javascript-improve-website-e-commerce\n✅ https://buildwithangga.com/kelas/mastering-react-js-progressive-web-apps-e-commerce",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NwXiJKBW35U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NwXiJKBW35U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NwXiJKBW35U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NwXiJKBW35U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NwXiJKBW35U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NwXiJKBW35U"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "NwXiJKBW35U",
+        "videoPublishedAt": "2022-12-20T13:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Almu1GKiH_k0kLxak8cfs8Kt908",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2022-12-13T22:18:28Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin Testing - Ngobrolin WEB Ep12",
+        "description": "Yuk mari kita diskusi dan ngobrol ngalor-ngidul tentang dunia web. Agar tetap up-to-date dengan teknologi web terkini.\r\n\r\nTopik, tautan dan pertanyaan menarik bisa dilayangkan ke https://bit.ly/ngobrolinweb",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TPetwHcfXns/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TPetwHcfXns/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TPetwHcfXns/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TPetwHcfXns/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TPetwHcfXns/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TPetwHcfXns"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "TPetwHcfXns",
+        "videoPublishedAt": "2022-12-14T02:20:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6GUmZhboBi9rrKF4dEp81vFdO1A",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2023-01-17T11:31:47Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin Font - Ngobrolin WEB Ep11",
+        "description": "Yuk mari kita diskusi dan ngobrol ngalor-ngidul tentang dunia web. Agar tetap up-to-date dengan teknologi web terkini.\r\n\r\nTopik pembahasan:\n- Pembahasan font di webalmanac (https://almanac.httparchive.org/en/2022/fonts)\n- Isometric font: Nabla\n- https://web.dev/preload-optional-fonts/\n- https://web.dev/css-size-adjust/ \n- https://npm.io/package/fontaine \n- https://developer.chrome.com/blog/colrv1-fonts/ lika-liku SVG font \n- Perbandingan COLR v0 dan v1: https://twitter.com/pixelambacht/status/1479402716203995141 \n- Tool: https://pixelambacht.nl/chromacheck/ \n- https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display\n- https://meowni.ca/font-style-matcher/ \n- https://www.smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WJvTvTSm9l8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WJvTvTSm9l8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WJvTvTSm9l8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WJvTvTSm9l8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WJvTvTSm9l8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WJvTvTSm9l8"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "WJvTvTSm9l8",
+        "videoPublishedAt": "2022-12-07T02:16:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "E_W3dZS0IROWzXQ5mArlhBPLg00",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2023-01-24T11:23:00Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin Web Components - Ngobrolin WEB Ep10",
+        "description": "Yuk mari kita diskusi dan ngobrol ngalor-ngidul tentang dunia web. Agar tetap up-to-date dengan teknologi web terkini.\r\n\r\nTopik, tautan dan pertanyaan menarik bisa dilayangkan ke https://bit.ly/ngobrolinweb",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B0Ar5k_h2uk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B0Ar5k_h2uk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B0Ar5k_h2uk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B0Ar5k_h2uk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B0Ar5k_h2uk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "B0Ar5k_h2uk"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "B0Ar5k_h2uk",
+        "videoPublishedAt": "2022-11-30T02:29:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jEgILB6rpYVf2ayn7957gCb51xo",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2022-11-22T23:24:48Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin Android - Ngobrolin WEB Ep9",
+        "description": "Yuk mari kita diskusi dan ngobrol ngalor-ngidul tentang dunia web. Agar tetap up-to-date dengan teknologi web terkini.\r\n\r\nTopik, tautan dan pertanyaan menarik bisa dilayangkan ke https://bit.ly/ngobrolinweb",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TGEH6ovjnjU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TGEH6ovjnjU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TGEH6ovjnjU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TGEH6ovjnjU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TGEH6ovjnjU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TGEH6ovjnjU"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "TGEH6ovjnjU",
+        "videoPublishedAt": "2022-11-23T02:49:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5y_t6qFFJuF25ZXho6qvQlF-3zQ",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2022-11-16T01:04:02Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin ECMAScript - Ngobrolin WEB Ep8",
+        "description": "Yuk mari kita diskusi dan ngobrol ngalor-ngidul tentang dunia web. Agar tetap up-to-date dengan teknologi web terkini.\n\nTopik, tautan dan pertanyaan menarik bisa dilayangkan ke https://bit.ly/ngobrolinweb\n\nTautan:\n- Apa itu EcmaScript? https://www.slideshare.net/rizafahmi/essentials-and-impactful-features-of-es6\n- https://medium.com/geekculture/regular-vs-arrow-function-1f8140fbcece\n- https://tc39.es/process-document/\n- https://github.com/tc39/proposals\n- https://gist.github.com/rajaramtt/7df3702a04c644b0b62c9a64f48f3dbf",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fv-M_fFil0c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fv-M_fFil0c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fv-M_fFil0c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fv-M_fFil0c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fv-M_fFil0c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fv-M_fFil0c"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "fv-M_fFil0c",
+        "videoPublishedAt": "2022-11-16T03:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "anBSLW3aW7QwmAZGEwH24nMhnYQ",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2022-11-11T00:43:42Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Perkembangan Teknologi WEB dari httparchive - Ngobrolin WEB Ep7",
+        "description": "Yuk mari kita diskusi dan ngobrol ngalor-ngidul tentang dunia web. Agar tetap up-to-date dengan teknologi web terkini.\r\n\r\nTopik, tautan dan pertanyaan menarik bisa dilayangkan ke https://bit.ly/ngobrolinweb\n\nTopik pembahasan:\n- https://almanac.httparchive.org/en/2022/javascript\n- https://almanac.httparchive.org/en/2022/webassembly\n- Datanya dari mana? seberapa akurat dan apakah representatif?\n    - https://github.com/HTTPArchive/httparchive.org/blob/main/docs/gettingstarted_bigquery.md \n    - https://almanac.httparchive.org/en/2022/methodology \n    - https://httparchive.org/faq \n- PWA & Capabilities\n    - https://almanac.httparchive.org/en/2022/pwa \n    - https://almanac.httparchive.org/en/2022/capabilities",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UEaMZRG_OnQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UEaMZRG_OnQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UEaMZRG_OnQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UEaMZRG_OnQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UEaMZRG_OnQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UEaMZRG_OnQ"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "UEaMZRG_OnQ",
+        "videoPublishedAt": "2022-11-09T02:09:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UcBkMaxHv1YJX8AmAO8WV6aYHuk",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2022-11-30T02:25:12Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin  i18n - Ngobrolin WEB Ep6",
+        "description": "- Contoh penggunaan Intl di https://bwa-luxspace-pwa-git-main-riza.vercel.app/, kode sumbernya: https://github.com/rizafahmi/bwa-luxspace-pwa/blob/8de386e0b4224691b41661472aabe2d96a96a26f/src/utils.js\n- Relative Time Format: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/RelativeTimeFormat/RelativeTimeFormat\n- Intl di mdn: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl\n- https://bundlephobia.com/\n- Number Format: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat\n- Dari dulu sudah ada Date.toLocaleDateString\ni- 18n vs l10n, apa bedanya? https://www.w3.org/International/questions/qa-i18n \nhttps://www.w3.org/standards/webdesign/i18n \n- Fitur CSS yang berguna untuk i18n\n  - https://developer.mozilla.org/en-US/docs/Web/CSS/direction\n  - https://developer.mozilla.org/en-US/docs/Web/CSS/word-break \n\n-----------------------------------------------------------------------------------\nBergabung menjadi anggota elit di kanal ini:\nhttps://www.youtube.com/channel/UCHhAlFGFCGgIusQkQIqJLYw/join\n\nDonasi dapat meningkatkan kualitas kanal ini:\n💰 https://karyakarsa.com/rizafahmi/tip\n💸 https://saweria.co/rizafahmi\n\n-----------------------------------------------------------------------------------\n\nButuh merchandise untuk kenangan:\n👕 https://www.ciptaloka.com/+rizafahmi/\n\n-----------------------------------------------------------------------------------\n\nNikmati juga karya saya lainnya:\n🗒️ https://rizafahmi.com/\n🗯️ https://diskusi.tech/rizafahmi\n🕸️ https://buildwithangga.com/kelas/sveltejs-front-end-javascript-development-web-donasi-online\n▶️ https://buildwithangga.com/kelas/struktur-data-javascript-improve-website-e-commerce\n✅ https://buildwithangga.com/kelas/mastering-react-js-progressive-web-apps-e-commerce",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CH5rh-zHktQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CH5rh-zHktQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CH5rh-zHktQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CH5rh-zHktQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CH5rh-zHktQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CH5rh-zHktQ"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "CH5rh-zHktQ",
+        "videoPublishedAt": "2022-12-05T04:07:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wcxLwErJqPXT6ButR-MVsZud3Ug",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2022-11-23T00:12:55Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin Konsep JS: Event Loop  - Ngobrolin WEB Ep5",
+        "description": "Konsep concurrency: async & paralel\n- https://blog.avenuecode.com/understanding-the-javascript-concurrency-model\n- https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif\nCallback:\n- https://www.youtube.com/watch?v=cCOL7MC4Pl0 \n- https://developer.mozilla.org/en-US/docs/Web/API — konsep Web API, API yang hanya ada di browser, tidak ada di JS runtime lain\n- Kenapa perlu mempelajari event loop, call stack, dsb? Apakah diajarkan di kurikulum web development? Apa manfaat konkritnya, khususnya sebagai (frontend) developer? Contoh use case?\n- http://latentflip.com/loupe — Event loop visualizer\n- Apa hubungan cara kerja main thread, client-side rendering React (atau UI library sejenis), dan metrics performance khususnya TBT?\n\n\n-----------------------------------------------------------------------------------\nBergabung menjadi anggota elit di kanal ini:\nhttps://www.youtube.com/channel/UCHhAlFGFCGgIusQkQIqJLYw/join\n\nDonasi dapat meningkatkan kualitas kanal ini:\n💰 https://karyakarsa.com/rizafahmi/tip\n💸 https://saweria.co/rizafahmi\n\n-----------------------------------------------------------------------------------\n\nButuh merchandise untuk kenangan:\n👕 https://www.ciptaloka.com/+rizafahmi/\n\n-----------------------------------------------------------------------------------\n\nNikmati juga karya saya lainnya:\n🗒️ https://rizafahmi.com/\n🗯️ https://diskusi.tech/rizafahmi\n🕸️ https://buildwithangga.com/kelas/sveltejs-front-end-javascript-development-web-donasi-online\n▶️ https://buildwithangga.com/kelas/struktur-data-javascript-improve-website-e-commerce\n✅ https://buildwithangga.com/kelas/mastering-react-js-progressive-web-apps-e-commerce",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qU3POeBk-0E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qU3POeBk-0E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qU3POeBk-0E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qU3POeBk-0E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qU3POeBk-0E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qU3POeBk-0E"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "qU3POeBk-0E",
+        "videoPublishedAt": "2022-11-29T23:11:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XTMfQoqYauonD1yHy2qTe_LH1XA",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2022-11-22T07:51:18Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin Viteconf - Ngobrolin WEB Ep4",
+        "description": "Implementasi Vite dan WordPress. vite-for-wp: https://github.com/kucrut/vite-for-wp\n\n- https://viteconf.org/ seru banget, 12 jam x 2 (ada tayang ulangnya)\n- Stackblitz mengumumkan produk mereka, Codeflow, di ViteConf. Codeflow sendiri berbasis WebContainers, sistem operasi berbasis Web Assembly(!) yang bisa dijalankan di browser(!!). Walaupun produk-produk tersebut proprietary milik StackBlitz, pendekatannya menarik karena merupakan hal yang baru, dan di layer paling dasar memanfaatkan Web API.\n- Talk Evan You menjelaskan asal muasal Vite. Berasal dari ide random tengah malam sebelum tidur di tahun 2020: https://twitter.com/youyuxi/status/125217366319 . Bisa ada ide ini karena saat itu teknologi ES Module sudah mulai diadopsi seluruh browser major.\n- Penjelasan tentang ES module dengan ilustrasi kartun: https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/\nTalk Anthony Fu berjudul “Vite, the on-demand DX” singkat dan menarik, menjelaskan pendekatan Vite dalam menangani masalah “bundling” sesuai dengan perkembangan teknologi web saat ini. (Spoiler: Di kondisi tertentu bahkan nggak perlu bundling!?)\nLukas Taegert-Atkinson mewakili Rollup mengumumkan peluncuran Rollup 3. Juga menjelaskan pendekatan bundling & caching dengan perhitungan performa yang optimal.\n\n\n-----------------------------------------------------------------------------------\nBergabung menjadi anggota elit di kanal ini:\nhttps://www.youtube.com/channel/UCHhAlFGFCGgIusQkQIqJLYw/join\n\nDonasi dapat meningkatkan kualitas kanal ini:\n💰 https://karyakarsa.com/rizafahmi/tip\n💸 https://saweria.co/rizafahmi\n\n-----------------------------------------------------------------------------------\n\nDiskusi lebih lanjut:\n💬 https://discord.gg/FBHNBHv\n\nButuh merchandise untuk kenangan:\n👕 https://www.ciptaloka.com/+rizafahmi/\n\n-----------------------------------------------------------------------------------\n\nNikmati juga karya saya lainnya:\n🗒️ https://rizafahmi.com/\n🗯️ https://diskusi.tech/rizafahmi\n🕸️ https://buildwithangga.com/kelas/sveltejs-front-end-javascript-development-web-donasi-online\n▶️ https://buildwithangga.com/kelas/struktur-data-javascript-improve-website-e-commerce\n✅ https://buildwithangga.com/kelas/mastering-react-js-progressive-web-apps-e-commerce",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Diqwtb6hKs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Diqwtb6hKs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Diqwtb6hKs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8Diqwtb6hKs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8Diqwtb6hKs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8Diqwtb6hKs"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "8Diqwtb6hKs",
+        "videoPublishedAt": "2022-11-22T08:03:34Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "j399pcLLvid7ewxdce35rqaq5Yw",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2022-11-22T05:36:13Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin DevFest - Ngobrolin WEB Ep3",
+        "description": "Membahas tentang DevFest 2022 yang akan segera diselenggarakan di seluruh belahan dunia. Membahas tentang apa itu DevFest, kenapa DevFest diadakan, di kota mana saja dan hal lain seputar ekosistem komunitas yang diinisiasi oleh Google.\n\n-----------------------------------------------------------------------------------\nBergabung menjadi anggota elit di kanal ini:\nhttps://www.youtube.com/channel/UCHhAlFGFCGgIusQkQIqJLYw/join\n\nDonasi dapat meningkatkan kualitas kanal ini:\n💰 https://karyakarsa.com/rizafahmi/tip\n💸 https://saweria.co/rizafahmi\n\n-----------------------------------------------------------------------------------\n\nDiskusi lebih lanjut:\n💬 https://discord.gg/FBHNBHv\n\nButuh merchandise untuk kenangan:\n👕 https://www.ciptaloka.com/+rizafahmi/\n\n-----------------------------------------------------------------------------------\n\nNikmati juga karya saya lainnya:\n🗒️ https://rizafahmi.com/\n🗯️ https://diskusi.tech/rizafahmi\n🕸️ https://buildwithangga.com/kelas/sveltejs-front-end-javascript-development-web-donasi-online\n▶️ https://buildwithangga.com/kelas/struktur-data-javascript-improve-website-e-commerce\n✅ https://buildwithangga.com/kelas/mastering-react-js-progressive-web-apps-e-commerce",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LrPBLlURfIs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LrPBLlURfIs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LrPBLlURfIs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LrPBLlURfIs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LrPBLlURfIs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LrPBLlURfIs"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "LrPBLlURfIs",
+        "videoPublishedAt": "2022-11-22T06:50:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Nti5fZxTedpvdGeqw5v_SlYIgD4",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2022-11-17T01:06:47Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin CSS - Ngobrolin WEB Ep2",
+        "description": "Yuk mari kita diskusi dan ngobrol ngalor-ngidul tentang dunia web. Agar tetap up-to-date dengan teknologi web terkini.\n\nTopik, tautan dan pertanyaan menarik bisa dilayangkan ke https://bit.ly/ngobrolinweb\n\n\nCSS Container Queries (dan polyfill-nya)\n- https://caniuse.com/css-container-queries\n- https://developer.chrome.com/blog/cq-polyfill/\nFormat baru belajar teknologi web\n- https://web.dev/learn/\n- https://web.dev/learn/css/\n- Yang berbahasa Indonesia https://htmlcss.rizafahmi.com/\nCSS inline vs non-inline?\nBrowser cache leveraging vs First page load speed\nStrategy to improve LCP with CSS inline\n\nTautan menarik\n- https://typescript.tv/errors – Penjelasan error-error TypeScript dalam bahasa yang lebih mudah dipahami\n- PWA Summit 2022: https://pwasummit.org/ gratis!\n\n\n-----------------------------------------------------------------------------------\nBergabung menjadi anggota elit di kanal ini:\nhttps://www.youtube.com/channel/UCHhAlFGFCGgIusQkQIqJLYw/join\n\nDonasi dapat meningkatkan kualitas kanal ini:\n💰 https://karyakarsa.com/rizafahmi/tip\n💸 https://saweria.co/rizafahmi\n\n-----------------------------------------------------------------------------------\n\nDiskusi lebih lanjut:\n💬 https://discord.gg/FBHNBHv\n\nButuh merchandise untuk kenangan:\n👕 https://www.ciptaloka.com/+rizafahmi/\n\n-----------------------------------------------------------------------------------\n\nNikmati juga karya saya lainnya:\n🗒️ https://rizafahmi.com/\n🗯️ https://diskusi.tech/rizafahmi\n🕸️ https://buildwithangga.com/kelas/sveltejs-front-end-javascript-development-web-donasi-online\n▶️ https://buildwithangga.com/kelas/struktur-data-javascript-improve-website-e-commerce\n✅ https://buildwithangga.com/kelas/mastering-react-js-progressive-web-apps-e-commerce",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ghLVcP_CgkY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ghLVcP_CgkY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ghLVcP_CgkY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ghLVcP_CgkY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ghLVcP_CgkY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ghLVcP_CgkY"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "ghLVcP_CgkY",
+        "videoPublishedAt": "2022-11-17T01:52:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IrrhWnHmp7EYpaB_ZSTG32aEmpM",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2022-11-17T00:57:42Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin Island Architecture - Ngobrolin WEB Ep1",
+        "description": "Yuk mari kita diskusi dan ngobrol ngalor-ngidul tentang dunia web. Agar tetap up-to-date dengan teknologi web terkini.\n\nTopik, tautan dan pertanyaan menarik bisa dilayangkan ke https://bit.ly/ngobrolinweb\n\nTopik obrolan\n- Fenomena “islands architecture” dan “partial hydration”\n    - https://www.patterns.dev/posts/islands-architecture/\n    - https://github.com/lxsmnsyc/awesome-islands\n- Fenomena frontend framework dengan JavaScript yang minimal seperti astro.build, ada qwik.builder.io juga. Lainnya: enhance.dev, rocket.modern-web.dev (lit+ssr), markojs. Di ‘pulau’ deno ada fresh.deno.dev\n- Increase page load selanjutnya dengan prefetch.\n    - Pros & Cons prefetch\n    - requestIdleCallback API untuk deteksi browser idle sebelum lakukan prefetch\n\n\n-----------------------------------------------------------------------------------\nBergabung menjadi anggota elit di kanal ini:\nhttps://www.youtube.com/channel/UCHhAlFGFCGgIusQkQIqJLYw/join\n\nDonasi dapat meningkatkan kualitas kanal ini:\n💰 https://karyakarsa.com/rizafahmi/tip\n💸 https://saweria.co/rizafahmi\n\n-----------------------------------------------------------------------------------\n\nDiskusi lebih lanjut:\n💬 https://discord.gg/FBHNBHv\n\nButuh merchandise untuk kenangan:\n👕 https://www.ciptaloka.com/+rizafahmi/\n\n-----------------------------------------------------------------------------------\n\nNikmati juga karya saya lainnya:\n🗒️ https://rizafahmi.com/\n🗯️ https://diskusi.tech/rizafahmi\n🕸️ https://buildwithangga.com/kelas/sveltejs-front-end-javascript-development-web-donasi-online\n▶️ https://buildwithangga.com/kelas/struktur-data-javascript-improve-website-e-commerce\n✅ https://buildwithangga.com/kelas/mastering-react-js-progressive-web-apps-e-commerce",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1p7nM1Yr6tw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1p7nM1Yr6tw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1p7nM1Yr6tw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1p7nM1Yr6tw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1p7nM1Yr6tw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1p7nM1Yr6tw"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "1p7nM1Yr6tw",
+        "videoPublishedAt": "2022-11-17T01:18:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qWSgIInzc29w_BBbACcnCaCPDFU",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2022-11-17T00:15:47Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin Web Episode Perdana",
+        "description": "Mari kita diskusi dan ngobrol ngalor-ngidul tentang dunia web. Agar tetap up-to-date dengan teknologi web terkini.\n\nMasukan, saran dan topik bisa dilayangkan ke https://t.me/rizafahmi\n\nBerbagai tautan\nSanitizer API, Web API untuk mengamankan string yang akan dirender ke DOM: \n  - https://web.dev/sanitizer\nPerformance Insight untuk perbaiki FCP, LCP & CLS.\n    - https://developer.chrome.com/docs/devtools/performance-insights/\nTeknologi dibalik figma:\n    - https://www.figma.com/blog/under-the-hood-of-figmas-infrastructure/\n    - https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/\n\n-----------------------------------------------------------------------------------\nBergabung menjadi anggota elit di kanal ini:\nhttps://www.youtube.com/channel/UCHhAlFGFCGgIusQkQIqJLYw/join\n\nDonasi dapat meningkatkan kualitas kanal ini:\n💰 https://karyakarsa.com/rizafahmi/tip\n💸 https://saweria.co/rizafahmi\n\n-----------------------------------------------------------------------------------\n\nDiskusi lebih lanjut:\n💬 https://discord.gg/FBHNBHv\n\nButuh merchandise untuk kenangan:\n👕 https://www.ciptaloka.com/+rizafahmi/\n\n-----------------------------------------------------------------------------------\n\nNikmati juga karya saya lainnya:\n🗒️ https://rizafahmi.com/\n🗯️ https://diskusi.tech/rizafahmi\n🕸️ https://buildwithangga.com/kelas/sveltejs-front-end-javascript-development-web-donasi-online\n▶️ https://buildwithangga.com/kelas/struktur-data-javascript-improve-website-e-commerce\n✅ https://buildwithangga.com/kelas/mastering-react-js-progressive-web-apps-e-commerce",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Aneo-LjbnoI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Aneo-LjbnoI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Aneo-LjbnoI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Aneo-LjbnoI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Aneo-LjbnoI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Aneo-LjbnoI"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "Aneo-LjbnoI",
+        "videoPublishedAt": "2022-11-17T00:28:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tjeKuk6mf5SKGF4jmZsc1OnG9Ic",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2023-02-01T01:50:26Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin Storage - Ngobrolin WEB ep18",
+        "description": "Yuk mari kita diskusi dan ngobrol ngalor-ngidul tentang dunia web. Agar tetap up-to-date dengan teknologi web terkini.\r\n\r\nTopik, tautan dan pertanyaan menarik bisa dilayangkan ke https://bit.ly/ngobrolinweb",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k-4ZMXMGISA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k-4ZMXMGISA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k-4ZMXMGISA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k-4ZMXMGISA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k-4ZMXMGISA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "k-4ZMXMGISA"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "k-4ZMXMGISA",
+        "videoPublishedAt": "2023-02-01T02:30:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NrGjhaCjM2NQaEkhrervQsbttWg",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2023-02-04T01:21:37Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin Metode Rendering - Ngobrolin WEB ep19",
+        "description": "Yuk mari kita diskusi dan ngobrol ngalor-ngidul tentang dunia web. Agar tetap up-to-date dengan teknologi web terkini.\n\nTopik, tautan dan pertanyaan menarik bisa dilayangkan ke https://bit.ly/ngobrolinweb\n\n-----------------------------------------------------------------------------------\nBergabung menjadi anggota elit di kanal ini:\nhttps://www.youtube.com/channel/UCHhAlFGFCGgIusQkQIqJLYw/join\n\nDonasi dapat meningkatkan kualitas kanal ini:\n💰 https://karyakarsa.com/rizafahmi/tip\n💸 https://saweria.co/rizafahmi\n\n-----------------------------------------------------------------------------------\n\nButuh merchandise untuk kenangan:\n👕 https://www.ciptaloka.com/+rizafahmi/\n\n-----------------------------------------------------------------------------------\n\nNikmati juga karya saya lainnya:\n🗒️ https://rizafahmi.com/\n🗯️ https://diskusi.tech/rizafahmi\n🕸️ https://buildwithangga.com/kelas/sveltejs-front-end-javascript-development-web-donasi-online\n▶️ https://buildwithangga.com/kelas/struktur-data-javascript-improve-website-e-commerce\n✅ https://buildwithangga.com/kelas/mastering-react-js-progressive-web-apps-e-commerce",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WC230bL6YnY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WC230bL6YnY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WC230bL6YnY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WC230bL6YnY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WC230bL6YnY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WC230bL6YnY"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "WC230bL6YnY",
+        "videoPublishedAt": "2023-02-07T13:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SQ5_soMn69hwWBwOKRUk3LB98mo",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2023-02-12T23:22:26Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin Otentikasi - Ngobrolin WEB ep20",
+        "description": "Malam ini kita akan ngobrolin tentang berbagai cara melakukan otentikasi di protokol yang digunakan oleh web yaitu HTTP.\n\nTopik pembahasan:\n- otentikasi\n- otentikasi vs otorisasi\n- HTTP Authentication (https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication)\n- 4 Auth method (https://blog.hubspot.com/website/api-authentication)\n- Single-sign on (https://auth0.com/blog/what-is-and-how-does-single-sign-on-work/)\n- JSON Web Token (https://jwt.io)\n- Webauthn (https://webauthn.io/)\n\n-----------------------------------------------------------------------------------\nBergabung menjadi anggota elit di kanal ini:\nhttps://www.youtube.com/channel/UCHhAlFGFCGgIusQkQIqJLYw/join\n\nDonasi dapat meningkatkan kualitas kanal ini:\n💰 https://karyakarsa.com/rizafahmi/tip\n💸 https://saweria.co/rizafahmi\n\n-----------------------------------------------------------------------------------\n\nButuh merchandise untuk kenangan:\n👕 https://www.ciptaloka.com/+rizafahmi/\n\n-----------------------------------------------------------------------------------\n\nNikmati juga karya saya lainnya:\n🗒️ https://rizafahmi.com/\n🗯️ https://diskusi.tech/rizafahmi\n🕸️ https://buildwithangga.com/kelas/sveltejs-front-end-javascript-development-web-donasi-online\n▶️ https://buildwithangga.com/kelas/struktur-data-javascript-improve-website-e-commerce\n✅ https://buildwithangga.com/kelas/mastering-react-js-progressive-web-apps-e-commerce",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H-NPmffVrcw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H-NPmffVrcw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H-NPmffVrcw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H-NPmffVrcw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H-NPmffVrcw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "H-NPmffVrcw"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "H-NPmffVrcw",
+        "videoPublishedAt": "2023-02-14T13:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rPwriLhsTeP_JuknNw8ymwPlsF4",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2023-02-21T22:58:49Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin Belajar - Ngobrolin WEB Ep21",
+        "description": "Yuk mari kita diskusi dan ngobrol ngalor-ngidul tentang dunia web. Agar tetap up-to-date dengan teknologi web terkini.\r Episode kali ini menghadirkan @sandhikagalihWPU dari kanal Web Programming Unpas.\n\r\nTopik, tautan dan pertanyaan menarik bisa dilayangkan ke https://bit.ly/ngobrolinweb",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/18LNXOF8IPA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/18LNXOF8IPA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/18LNXOF8IPA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/18LNXOF8IPA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/18LNXOF8IPA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "18LNXOF8IPA"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "18LNXOF8IPA",
+        "videoPublishedAt": "2023-02-22T02:40:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qAcjW-rNzZbzrSapsqeLsaw8B7E",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2023-02-28T23:22:00Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin Interop 2023 - Ngobrolin WEB ep22",
+        "description": "Yuk mari kita diskusi dan ngobrol ngalor-ngidul tentang dunia web. Agar tetap up-to-date dengan teknologi web terkini.\r\n\r\nTopik, tautan dan pertanyaan menarik bisa dilayangkan ke https://bit.ly/ngobrolinweb",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mN01Hg41tB8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mN01Hg41tB8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mN01Hg41tB8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mN01Hg41tB8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mN01Hg41tB8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mN01Hg41tB8"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "mN01Hg41tB8",
+        "videoPublishedAt": "2023-03-01T02:40:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "m-5-O9KY-DlXRtWZVIwq0qG8zfg",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2023-03-07T14:32:16Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin Proyek Fugu - Ngobrolin WEB ep23",
+        "description": "Yuk mari kita diskusi dan ngobrol ngalor-ngidul tentang dunia web. Agar tetap up-to-date dengan teknologi web terkini.\r\n\r\nTopik, tautan dan pertanyaan menarik bisa dilayangkan ke https://bit.ly/ngobrolinweb",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YMFz1Ky2E0k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YMFz1Ky2E0k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YMFz1Ky2E0k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YMFz1Ky2E0k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YMFz1Ky2E0k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YMFz1Ky2E0k"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "YMFz1Ky2E0k",
+        "videoPublishedAt": "2023-03-08T02:33:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mmvxC4UCHFvNbTJJm-HdL_m-YrE",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2023-03-16T03:36:38Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin TypeScript - Ngobrolin WEB ep24",
+        "description": "Yuk mari kita diskusi dan ngobrol ngalor-ngidul tentang dunia web. Agar tetap up-to-date dengan teknologi web terkini.\r\n\r\nTopik, tautan dan pertanyaan menarik bisa dilayangkan ke https://bit.ly/ngobrolinweb",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cjqz5C0eWgc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cjqz5C0eWgc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cjqz5C0eWgc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cjqz5C0eWgc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cjqz5C0eWgc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cjqz5C0eWgc"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "cjqz5C0eWgc",
+        "videoPublishedAt": "2023-03-15T02:46:26Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SnsdNbAvkNm7y-8GBo6nsO7W3II",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2023-03-21T23:05:36Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin Teknologi Edge - Ngobrolin WEB",
+        "description": "Yuk mari kita diskusi dan ngobrol ngalor-ngidul tentang dunia web. Agar tetap up-to-date dengan teknologi web terkini.\r\n\r\nTopik, tautan dan pertanyaan menarik bisa dilayangkan ke https://bit.ly/ngobrolinweb",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J8qef9MI1rY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J8qef9MI1rY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J8qef9MI1rY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J8qef9MI1rY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J8qef9MI1rY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "J8qef9MI1rY"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "J8qef9MI1rY",
+        "videoPublishedAt": "2023-03-22T03:05:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "91u9jJxCJQOl3NASXC14tJYMr6A",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2023-04-04T15:44:32Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin Web Jadul - Ngobrolin WEB ep27",
+        "description": "Yuk mari kita diskusi dan ngobrol ngalor-ngidul tentang dunia web. Agar tetap up-to-date dengan teknologi web terkini.\r\n\r\nTopik, tautan dan pertanyaan menarik bisa dilayangkan ke https://bit.ly/ngobrolinweb",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2nJE0rvIUps/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2nJE0rvIUps/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2nJE0rvIUps/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2nJE0rvIUps/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2nJE0rvIUps/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2nJE0rvIUps"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "2nJE0rvIUps",
+        "videoPublishedAt": "2023-04-05T03:45:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "c82SXy0qHaR23C6QwEtaHVRc15s",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2023-04-19T03:36:26Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin Format Warna - Ngobrolin WEB",
+        "description": "Yuk mari kita diskusi dan ngobrol ngalor-ngidul tentang dunia web. Agar tetap up-to-date dengan teknologi web terkini.\r\n\r\nTopik, tautan dan pertanyaan menarik bisa dilayangkan ke https://bit.ly/ngobrolinweb",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uYqnB9rhIaQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uYqnB9rhIaQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uYqnB9rhIaQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uYqnB9rhIaQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uYqnB9rhIaQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uYqnB9rhIaQ"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "uYqnB9rhIaQ",
+        "videoPublishedAt": "2023-04-13T03:26:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jeLHkgdyQz94dt8rtop1e2UOi1Y",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2023-04-19T03:48:50Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin CMS - Ngobrolin WEB ep29",
+        "description": "Yuk mari kita diskusi dan ngobrol ngalor-ngidul tentang dunia web. Agar tetap up-to-date dengan teknologi web terkini.\r\n\r\nTopik, tautan dan pertanyaan menarik bisa dilayangkan ke https://bit.ly/ngobrolinweb",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zc2NxphfHeE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zc2NxphfHeE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zc2NxphfHeE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zc2NxphfHeE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zc2NxphfHeE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zc2NxphfHeE"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "zc2NxphfHeE",
+        "videoPublishedAt": "2023-04-19T03:21:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "m5rfW04SD6896Vbx-w0KhOGdCMQ",
+      "id": "UExUWTJuVzRqd3RHOFN4MkJ3NlFTaEMyNzFQelgzMUN0VC5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2023-04-21T11:36:15Z",
+        "channelId": "UCHhAlFGFCGgIusQkQIqJLYw",
+        "title": "Ngobrolin Templating Language - Ngobrolin WEB",
+        "description": "Mari kita ngobrol ngalor-ngidul seputar teknologi web.\n\n-----------------------------------------------------------------------------------\nBergabung menjadi anggota elit di kanal ini:\nhttps://www.youtube.com/channel/UCHhAlFGFCGgIusQkQIqJLYw/join\n\nDonasi dapat meningkatkan kualitas kanal ini:\n💰 https://karyakarsa.com/rizafahmi/tip\n💸 https://saweria.co/rizafahmi\n\n-----------------------------------------------------------------------------------\n\nButuh merchandise untuk kenangan:\n👕 https://www.ciptaloka.com/+rizafahmi/\n\n-----------------------------------------------------------------------------------\n\nNikmati juga karya saya lainnya:\n🗒️ https://rizafahmi.com/\n🗯️ https://diskusi.tech/rizafahmi\n🕸️ https://buildwithangga.com/kelas/sveltejs-front-end-javascript-development-web-donasi-online\n▶️ https://buildwithangga.com/kelas/struktur-data-javascript-improve-website-e-commerce\n✅ https://buildwithangga.com/kelas/mastering-react-js-progressive-web-apps-e-commerce",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mJ6t8TJc6cQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mJ6t8TJc6cQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mJ6t8TJc6cQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mJ6t8TJc6cQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mJ6t8TJc6cQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Riza Fahmi",
+        "playlistId": "PLTY2nW4jwtG8Sx2Bw6QShC271PzX31CtT",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mJ6t8TJc6cQ"
+        },
+        "videoOwnerChannelTitle": "Riza Fahmi",
+        "videoOwnerChannelId": "UCHhAlFGFCGgIusQkQIqJLYw"
+      },
+      "contentDetails": {
+        "videoId": "mJ6t8TJc6cQ",
+        "videoPublishedAt": "2023-04-21T10:52:06Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 29,
+    "resultsPerPage": 50
+  }
+}
