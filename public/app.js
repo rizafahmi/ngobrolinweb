@@ -7,7 +7,6 @@ async function getEpisodes() {
 async function main() {
   const episodes = await getEpisodes()
 
-  console.log(episodes)
   renderEpisodes(episodes.items)
 }
 
